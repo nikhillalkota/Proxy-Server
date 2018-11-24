@@ -1,4 +1,4 @@
-web.c >> an HTTP proxy server*/
+/* an HTTP proxy server*/
 #include <sys/socket.h>							//For socket functions
 #include <netinet/in.h> 						//Defines INET_ADDRSTRLEN macro as 16 & INET6_ADDRSTRLEN as 46
 #include <sys/types.h>							
